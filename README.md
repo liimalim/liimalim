@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Alim AJ</h1>
 <h3 align="center">A passionate backend developer from Indonesia</h3>
 
-- 🔭 I’m currently working on **Banananina**
+- 🔭 I’m currently working at **Banananina**
 
 - 📝 I regularly write articles on [https://alim.my.id/](https://alim.my.id/)
 
-- 📫 How to reach me **hello.liimalim@gmail.com**
+- 📫 How to reach me **hello.alim.aj@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
